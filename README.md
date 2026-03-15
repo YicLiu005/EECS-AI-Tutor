@@ -26,3 +26,8 @@
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/EECS-AI-Tutor.git
    cd EECS-AI-Tutor
+  1. **Install dependencies:**
+   Make sure you have Python 3.9+ installed. Run:
+   
+   ```bash
+   pip install -r requirements.txt
