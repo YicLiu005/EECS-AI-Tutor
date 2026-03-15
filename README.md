@@ -15,9 +15,9 @@ An agentic AI tutor with RAG and multimodal capabilities for elementary students
    git clone https://github.com/YOUR_GITHUB_USERNAME/KidLearnAI.git
    cd KidLearnAI
 
-  Install dependencies:
+  #Install dependencies:
   pip install -r requirements.txt
-  Set your API Key:
-Open config.py (or web_ui.py) and replace the GEMINI_API_KEY placeholder with your valid Google Gemini API key.
-Run the Streamlit App:
-python -m streamlit run web_ui.py
+  #Set your API Key:
+   Open config.py (or web_ui.py) and replace the GEMINI_API_KEY placeholder with your valid Google Gemini API key.
+   #Run the Streamlit App:
+   python -m streamlit run web_ui.py
